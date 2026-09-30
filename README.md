@@ -12,7 +12,7 @@ I'm Adrián Pardellas Blunier, full-stack engineer in Vigo, Spain. 17 years buil
 
 - 📚 **[Testa](https://github.com/numaxlab/testa)** (at @numaxlab): Bookshop e-commerce package
 - 📦 **[geslib-files](https://github.com/numaxlab/geslib-files)** (at @numaxlab): Component for reading data export files from [Geslib](https://editorial.trevenque.es/productos/geslib/), a proprietary ERP for the book trade.
-- 🎬 **[icaa-files](https://github.com/numaxlab/icaa-files)** (at @numaxlab): Component for reading and writing the files exchanged between certified mailboxes and the [ICAA](https://www.cultura.gob.es/en/cultura/areas/cine/inicio.html) (*Instituto de la Cinematografía y de las Artes Audiovisuales*).
+- 🎬 **[icaa-files](https://github.com/numaxlab/icaa-files)** (at @numaxlab): Component for reading and writing the files used for data exchange between certified cinema management systems and the [ICAA](https://www.cultura.gob.es/en/cultura/areas/cine/inicio.html) (*Instituto de la Cinematografía y de las Artes Audiovisuales*).
 
 ### ⤴ Currently learning
 
