@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm Adrián Pardellas Blunier, full-stack engineer in Vigo, Spain. 17 years building web products in different stacks. Currently using mainly TypeScript/React on the front and TypeScript/Node on the back, with a soft spot for DDD and hexagonal architecture. Most of my experience is in PHP with Laravel and Symfony plus PostgreSQL/MySQL on the backend, and JavaScript/TypeScript (with Vue.js or Alpine.js) on the frontend.
+I'm Adrián Pardellas Blunier, full-stack developer in [Vigo](https://en.wikipedia.org/wiki/Vigo). 17 years building web products in different stacks. Currently using mainly TypeScript/React on the front and TypeScript/Node on the back, with a soft spot for DDD and hexagonal architecture. Most of my experience is in PHP with Laravel and Symfony plus PostgreSQL/MySQL on the backend, and JavaScript/TypeScript (with Vue.js or Alpine.js) on the frontend.
 
 ### ➡ I'm currently working on
 
