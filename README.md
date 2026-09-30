@@ -8,7 +8,7 @@ I'm Adrián Pardellas Blunier, full-stack developer in [Vigo](https://en.wikiped
 - 🧪 **[algorithm-lab](https://github.com/ablunier/algorithm-lab)**: TypeScript playground to explore algorithmic complexity, performance characteristics and TypeScript as a design and modeling tool
 - ⚡ **[renewable-analyzer](https://github.com/ablunier/renewable-analyzer)**: Spanish renewable generation dashboard (and my Elm playground)
 
-### ⬅ My latest OSS work
+### ⬅ Some of my latest OSS work
 
 - 📚 **[Testa](https://github.com/numaxlab/testa)** (at @numaxlab): Bookshop e-commerce package
 - 📦 **[geslib-files](https://github.com/numaxlab/geslib-files)** (at @numaxlab): Component for reading data export files from [Geslib](https://editorial.trevenque.es/productos/geslib/), a proprietary ERP for the book trade.
