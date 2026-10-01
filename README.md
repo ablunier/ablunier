@@ -1,12 +1,12 @@
 ## 👋 Hi there
 
-I'm Adrián Pardellas Blunier, full-stack developer in [Vigo](https://en.wikipedia.org/wiki/Vigo). 17 years building web products in different stacks. Currently using mainly TypeScript/React on the front and TypeScript/Node on the back, with a soft spot for DDD and hexagonal architecture. Most of my experience is in PHP with Laravel and Symfony plus PostgreSQL/MySQL on the backend, and JavaScript/TypeScript (with Vue.js or Alpine.js) on the frontend.
+I'm Adrián Pardellas Blunier, full-stack developer in [Vigo](https://en.wikipedia.org/wiki/Vigo). 17 years building web products in different stacks. Currently using mainly TypeScript/React on the front and TypeScript/Node on the back, with a soft spot for DDD and hexagonal architecture. Most of my experience is in PHP with Laravel and Symfony plus PostgreSQL/MySQL on the backend, and JavaScript/TypeScript (with Vue.js, Alpine.js or Vanilla JS), HTML and CSS (Tailwind CSS or Vanilla CSS) on the frontend.
 
 ### ➡ I'm currently working on
 
-- 📅 **[anytype-calendar](https://github.com/ablunier/anytype-calendar)**: Electron + React 19 desktop calendar for Anytype, DDD bounded contexts enforced with dependency-cruiser, built with Claude Code
-- 🧪 **[algorithm-lab](https://github.com/ablunier/algorithm-lab)**: TypeScript playground to explore algorithmic complexity, performance characteristics and TypeScript as a design and modeling tool
-- ⚡ **[renewable-analyzer](https://github.com/ablunier/renewable-analyzer)**: Spanish renewable generation dashboard (and my Elm playground)
+- 📅 **[anytype-calendar](https://github.com/ablunier/anytype-calendar)**: Electron + React 19 desktop calendar for Anytype, DDD bounded contexts enforced with dependency-cruiser, built with agentic development.
+- 🧪 **[algorithm-lab](https://github.com/ablunier/algorithm-lab)**: TypeScript playground to explore algorithmic complexity, performance characteristics and TypeScript as a design and modeling tool.
+- ⚡ **[renewable-analyzer](https://github.com/ablunier/renewable-analyzer)**: Spanish renewable generation dashboard (and my Elm playground).
 
 ### ⬅ Some of my latest OSS work
 
@@ -16,9 +16,9 @@ I'm Adrián Pardellas Blunier, full-stack developer in [Vigo](https://en.wikiped
 
 ### ⤴ Currently learning
 
-- Agentic development and frontier engineering
+- Agentic development
 - Go
 
-### 🕰 Outside code
+### 🕰 More about me
 
 I'm a musician, mainly a guitar player, since I was 14. As a half-Swiss, half-Galician I've lived between cultures all my life. The best place for me to reset is nature: the beach in summer or the mountains in winter.
